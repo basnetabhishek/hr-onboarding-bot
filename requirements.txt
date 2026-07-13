@@ -1,0 +1,9 @@
+# Verified working set .
+streamlit>=1.37,<2
+langchain==0.3.27
+langchain-community==0.3.27
+langchain-text-splitters==0.3.11
+langchain-openai==0.2.14
+faiss-cpu==1.14.3
+pypdf==5.9.0
+python-dotenv==1.2.2

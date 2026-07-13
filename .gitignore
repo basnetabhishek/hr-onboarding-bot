@@ -1,0 +1,14 @@
+# secrets
+.env
+
+# persisted vector index
+faiss_index/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# streamlit
+.streamlit/secrets.toml
